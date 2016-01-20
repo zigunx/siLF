@@ -3,9 +3,15 @@
 @section('htmlheader_title')
 	Home
 @endsection
+@section('contentheader_title')
+	Home1
+@endsection
+@section('contentheader_description')
+	Home2
+@endsection
 
 
-@section('content')
+@section('main-content')
 	<div class="container spark-screen">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
