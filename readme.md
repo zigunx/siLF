@@ -1,6 +1,6 @@
 ## SI LF
 
-Cek Aplikasi [![Build Status](https://travis-ci.org/zigunx/ujicoba.svg?branch=master)](https://travis-ci.org/zigunx/ujicoba)
+[![Build Status](https://travis-ci.org/zigunx/ujicoba.svg?branch=master)](https://travis-ci.org/zigunx/ujicoba)
 
 ## Kontribusi
 
