@@ -1,6 +1,7 @@
 ## SI LF
 
 [![Build Status](https://travis-ci.org/zigunx/ujicoba.svg?branch=master)](https://travis-ci.org/zigunx/ujicoba)
+[![devDependency Status](https://david-dm.org/zigunx/ujicoba.svg)](https://david-dm.org/zigunx/ujicoba#info=devDependencies)
 
 ## Kontribusi
 
