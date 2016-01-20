@@ -1,10 +1,10 @@
 ## SI LF
 
-[![Build Status](https://travis-ci.org/zigunx/ujicoba.svg?branch=master)](https://travis-ci.org/zigunx/ujicoba)
+Cek Aplikasi [![Build Status](https://travis-ci.org/zigunx/ujicoba.svg?branch=master)](https://travis-ci.org/zigunx/ujicoba)
 
-## Contributing
+## Kontribusi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+Aplikasi SI LF didesain untuk LF Wonosobo oleh Hardi Agunadi
 
 ### License
 
