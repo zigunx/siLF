@@ -27,7 +27,12 @@ Route::get('/', function () {
 */
 
 Route::group(['middleware' => ['web']], function () {
-    //
+    
+
 });
+
+Route::get('/home', ['middleware' => 'auth', function () {
+    return view('home');
+}]);
 
 Route::resource('mahasiswa', 'MahasiswaController');

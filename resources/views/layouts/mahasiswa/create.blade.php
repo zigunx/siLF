@@ -21,6 +21,7 @@
 					<div class="panel-body">
 
 					   <form class="form-horizontal">
+                                <input type="hidden" name="_token" value="{{ csrf_field() }}" />
 								<div class="form-group">
                                  <label class="col-sm-2 control-label" for="form-field-1"> jurusan </label>
                                     <div class="col-sm-9">
